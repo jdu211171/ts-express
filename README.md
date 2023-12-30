@@ -1,10 +1,13 @@
 Express.JS + Typescript template
 
-first:      `npm run build`
+intall:     `npm i`
+
+build:      `npm run build`
+
 after:      `npm run dev`
 
 production: `npm run prod`
 
 ```diff
 - Warning!
-+ on initial build an error may occur, afterwards there won't be problem.
++ on initial build an error may occur,but afterwards I hope there won't be any problem.
